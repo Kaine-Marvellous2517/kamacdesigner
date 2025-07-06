@@ -287,18 +287,18 @@ pre {
 #contact>h3 {
   font-size: 20px;
 }
-#contact>div {
+#contact>.box {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 12px;
 }
-#contact>div>a {
+#contact>.box>a {
   display: flex;
   align-items: center;
 }
-#contact>div>a img {
+#contact>.box>a img {
   width: 20px;
 }
 #contact>.watermark {
