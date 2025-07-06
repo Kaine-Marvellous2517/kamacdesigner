@@ -324,7 +324,7 @@ pre {
 
 @media screen and (max-width: 769px) {
   #hero {
-    padding: 8vh 8%;
+    padding: 4vh 8% 12vh 8%;
     flex-direction: column;
   } 
   #hero div {
